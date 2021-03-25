@@ -1,4 +1,3 @@
-var data = '{"name":"Dimtri", "age":20, "city":"Chicago"}'
 /*
    Parse
 */
